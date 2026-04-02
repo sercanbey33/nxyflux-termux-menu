@@ -1,4 +1,6 @@
-NxYFLuX Termux Gelişmiş Hızlı Menü V1.0
+![nxyflux_menulogo](./nxyflux_menu.jpg)
+
+NxYFLuX Termux Gelişmiş Hızlı Menü
 
 ---
 
@@ -7,6 +9,7 @@ NxYFLuX Termux Gelişmiş Hızlı Menü V1.0
 nxyflux-termux-menu/
 ├── nxyflux_menu.sh
 ├── nxyflux_menu.jpg
+├── nxyflux_menu_hata.jpg
 ├── README.md
 └── LICENSE
 ```
