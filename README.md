@@ -106,4 +106,18 @@ bash nxyflux_menu.sh
 
 ---
 
+![nxyflux-menu-hata](./nxyflux_menu_hata.jpg)
+
+Yukardaki fotoğrafdaki gibi hata alırsanız aşağıdaki paketi yükle tekrar dene
+
+```bash
+pkg install dos2unix
+```
+
+```bash
+dos2unix nxyflux_menu.sh
+```
+
+---
+
 ⭐ Beğendiyseniz yıldız vermeyi unutmayın!
