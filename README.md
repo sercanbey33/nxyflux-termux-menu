@@ -14,36 +14,51 @@ nxyflux-termux-menu/
 
 ### ✨ Özellikler
 
-| Özellik | Açıklama |
-|---------|----------|
-| 🌐 6 Dil Desteği | Türkçe, İngilizce, Rusça, Japonca, Korece, Almanca |
-| 🔄 Sistem Güncelleme | Tek tıkla  pkg update && pkg upgrade  |
-| 📦 Paket Kurulumu | İnteraktif paket adı girişi ile kurulum |
-| 🗑️ Paket Kaldırma | Güvenli paket kaldırma |
-| 📋 Paket Listesi | Kurulu paketleri görüntüleme |
-| 🔍 Paket Arama | Depoda paket arama |
-| 🧹 Önbellek Temizleme |  pkg clean  ve  apt autoremove |
-| 💾 Depolama Erişimi |  termux-setup-storage  entegrasyonu|
-| 🛠️ Popüler Araçlar | | 11 hazır araç kategorisi |
-| ℹ️ Sistem Bilgisi   | | Detaylı sistem durumu |
+**🌐 6 Dil Desteği** - Türkçe, İngilizce, Rusça, Japonca, Korece, Almanca
+
+**🔄 Sistem Güncelleme** - Tek tıkla  pkg update && pkg upgrade
+
+**📦 Paket Kurulumu** - İnteraktif paket adı girişi ile kurulum
+
+**🗑️ Paket Kaldırma** - Güvenli paket kaldırma
+
+**📋 Paket Listesi** - Kurulu paketleri görüntüleme
+
+**🔍 Paket Arama** - Depoda paket arama
+
+**🧹 Önbellek Temizleme** - pkg clean  ve  apt autoremove
+
+**💾 Depolama Erişimi** - termux-setup-storage  entegrasyonu
+
+**🛠️ Popüler Araçlar** - 11 hazır araç kategorisi
+
+**ℹ️ Sistem Bilgisi** - Detaylı sistem durumu
 
 ---
 
 ### 🛠️ Popüler Araçlar Menüsü İçeriği
 
-| Araçlar | Açıklama |
-|---------|----------|
-| Python & Pip  | Python geliştirme ortamı |
-| Git | Versiyon kontrol sistemi |
-| Nmap | Ağ tarayıcı ve güvenlik tarayıcı |
-| OpenSSH | Uzaktan erişim sunucusu |
-| Wget & Curl | Dosya indirme araçları |
-| Nano & Vim | Metin editörleri |
-| Figlet & Lolcat | ASCII sanat ve renkli metin efektleri |
-|  Hydra | | Parola kırma aracı |
-| Aircrack-ng | | WiFi güvenlik test araçları |
-| Metasploit | | Penetrasyon test framework'ü | 
-| Tüm Temel Paketler | | Toplu kurulum |
+**Python & Pip** - Python geliştirme ortamı
+
+**Git** - Versiyon kontrol sistemi
+
+**Nmap** - Ağ tarayıcı ve güvenlik tarayıcı
+
+**OpenSSH** - Uzaktan erişim sunucusu
+
+**Wget & Curl** - Dosya indirme araçları
+
+**Nano & Vim** - Metin editörleri
+
+**Figlet & Lolcat** - ASCII sanat ve renkli metin efektleri
+
+**Hydra** - Parola kırma aracı
+
+**Aircrack-ng** - WiFi güvenlik test araçları
+
+**Metasploit** - Penetrasyon test framework'ü
+
+**Tüm Temel Paketler** - Toplu kurulum
 
 ---
 
