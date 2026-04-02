@@ -85,7 +85,7 @@ pkg install git
 ## 4. Repoyu Clonla
 
 ```bash
-git clone 
+git clone https://github.com/sercanbey33/nxyflux-termux-menu.git
 ```
 
 ```bash
